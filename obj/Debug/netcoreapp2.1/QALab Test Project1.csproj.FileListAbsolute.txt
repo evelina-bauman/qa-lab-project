@@ -1,0 +1,11 @@
+C:\Evelina\QA Lab\QALab Test Project1\bin\Debug\netcoreapp2.1\QALab Test Project1.deps.json
+C:\Evelina\QA Lab\QALab Test Project1\bin\Debug\netcoreapp2.1\QALab Test Project1.runtimeconfig.json
+C:\Evelina\QA Lab\QALab Test Project1\bin\Debug\netcoreapp2.1\QALab Test Project1.runtimeconfig.dev.json
+C:\Evelina\QA Lab\QALab Test Project1\bin\Debug\netcoreapp2.1\QALab Test Project1.dll
+C:\Evelina\QA Lab\QALab Test Project1\bin\Debug\netcoreapp2.1\QALab Test Project1.pdb
+C:\Evelina\QA Lab\QALab Test Project1\obj\Debug\netcoreapp2.1\QALab Test Project1.csprojAssemblyReference.cache
+C:\Evelina\QA Lab\QALab Test Project1\obj\Debug\netcoreapp2.1\QALab Test Project1.csproj.CoreCompileInputs.cache
+C:\Evelina\QA Lab\QALab Test Project1\obj\Debug\netcoreapp2.1\QALab Test Project1.AssemblyInfoInputs.cache
+C:\Evelina\QA Lab\QALab Test Project1\obj\Debug\netcoreapp2.1\QALab Test Project1.AssemblyInfo.cs
+C:\Evelina\QA Lab\QALab Test Project1\obj\Debug\netcoreapp2.1\QALab Test Project1.dll
+C:\Evelina\QA Lab\QALab Test Project1\obj\Debug\netcoreapp2.1\QALab Test Project1.pdb
