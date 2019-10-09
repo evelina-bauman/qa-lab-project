@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Evelina\\QA Lab\\QALab Test Project1\\Exercises.csproj": {}
+    "C:\\Evelina\\QA Lab\\qa-lab-project\\Exercises.csproj": {}
   },
   "projects": {
-    "C:\\Evelina\\QA Lab\\QALab Test Project1\\Exercises.csproj": {
+    "C:\\Evelina\\QA Lab\\qa-lab-project\\Exercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Evelina\\QA Lab\\QALab Test Project1\\Exercises.csproj",
+        "projectUniqueName": "C:\\Evelina\\QA Lab\\qa-lab-project\\Exercises.csproj",
         "projectName": "Exercises",
-        "projectPath": "C:\\Evelina\\QA Lab\\QALab Test Project1\\Exercises.csproj",
+        "projectPath": "C:\\Evelina\\QA Lab\\qa-lab-project\\Exercises.csproj",
         "packagesPath": "C:\\Users\\Evelina_Bauman\\.nuget\\packages\\",
-        "outputPath": "C:\\Evelina\\QA Lab\\QALab Test Project1\\obj\\",
+        "outputPath": "C:\\Evelina\\QA Lab\\qa-lab-project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -13,6 +13,7 @@ namespace Exercises
             string outLine = Console.ReadLine();
             for (int i = 0; i < 10; i++)
                 Console.WriteLine(outLine + " " + (i + 1).ToString());
+            Console.WriteLine();
         }
 
         public void Exercise2()
